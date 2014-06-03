@@ -1,5 +1,5 @@
 {
-        "name": "aberdnikov/meerkat-sf-animatecss",
+        "name": "meerkat/meerkat-sf-animatecss",
         "type": "kohana-module",
         "description": "StaticFiles library for MeerkatCMF (on Kohana 3.3)",
         "homepage": "https://github.com/aberdnikov/meerkat-sf-animatecss",
@@ -21,7 +21,7 @@
         "require": {
                 "php": ">=5.3",
                 "composer/installers": "*",
-                "aberdnikov/meerkat-staticfiles": "*",
-                "aberdnikov/meerkat-route": "*"
+                "meerkat/meerkat-staticfiles": "*",
+                "meerkat/meerkat-route": "*"
         }		
  }
