@@ -1,0 +1,27 @@
+{
+        "name": "aberdnikov/meerkat-sf-animatecss",
+        "type": "kohana-module",
+        "description": "StaticFiles library for MeerkatCMF (on Kohana 3.3)",
+        "homepage": "https://github.com/aberdnikov/meerkat-sf-animatecss",
+		"license": "BSD-3-Clause",
+        "keywords": ["kohana", "module", "meerkat", "static-files"],
+        "authors": [
+                {
+                        "name": "Daniel Eden",
+                        "homepage": "http://daneden.me/",
+                        "role": "Designer"
+                },		
+                {
+                        "name": "Alexey Berdnikov",
+                        "email": "aberdnikov@gmail.com",
+                        "homepage": "https://github.com/aberdnikov",
+                        "role": "Module maintainer"
+                }
+        ],
+        "require": {
+                "php": ">=5.3",
+                "composer/installers": "*",
+                "aberdnikov/meerkat-staticfiles": "*",
+                "aberdnikov/meerkat-route": "*"
+        }		
+ }
